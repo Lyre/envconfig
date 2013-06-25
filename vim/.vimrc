@@ -16,5 +16,11 @@ set tabstop=4
 "每一级缩进是4个空格
 set shiftwidth=4
 
+"设置标尺
+set ruler
+
 "将tab替换成空格
 set expandtab
+
+"设置编码
+set encoding=utf-8
